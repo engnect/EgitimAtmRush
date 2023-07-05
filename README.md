@@ -1,2 +1,2 @@
 # EgitimAtmRush
-28-29 Mayıs 2022 tarihlerinde eğitimde yapılan oyun.
+The game held in education on 28-29 May 2022.
